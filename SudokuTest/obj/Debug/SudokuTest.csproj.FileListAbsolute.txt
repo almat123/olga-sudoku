@@ -1,0 +1,16 @@
+C:\Users\Olga\documents\visual studio 2015\Projects\SudokuTest\obj\Debug\SudokuTest.csprojResolveAssemblyReference.cache
+C:\Users\Olga\documents\visual studio 2015\Projects\SudokuTest\bin\Debug\SudokuTest.dll
+C:\Users\Olga\documents\visual studio 2015\Projects\SudokuTest\bin\Debug\SudokuTest.pdb
+C:\Users\Olga\documents\visual studio 2015\Projects\SudokuTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Olga\documents\visual studio 2015\Projects\SudokuTest\bin\Debug\Sudoku.exe
+C:\Users\Olga\documents\visual studio 2015\Projects\SudokuTest\bin\Debug\Sudoku.pdb
+C:\Users\Olga\documents\visual studio 2015\Projects\SudokuTest\obj\Debug\SudokuTest.dll
+C:\Users\Olga\documents\visual studio 2015\Projects\SudokuTest\obj\Debug\SudokuTest.pdb
+C:\Users\Olga\Documents\Visual Studio 2015\Projects\Sudoku\SudokuTest\bin\Debug\SudokuTest.dll
+C:\Users\Olga\Documents\Visual Studio 2015\Projects\Sudoku\SudokuTest\bin\Debug\SudokuTest.pdb
+C:\Users\Olga\Documents\Visual Studio 2015\Projects\Sudoku\SudokuTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Olga\Documents\Visual Studio 2015\Projects\Sudoku\SudokuTest\bin\Debug\Sudoku.exe
+C:\Users\Olga\Documents\Visual Studio 2015\Projects\Sudoku\SudokuTest\bin\Debug\Sudoku.pdb
+C:\Users\Olga\Documents\Visual Studio 2015\Projects\Sudoku\SudokuTest\obj\Debug\SudokuTest.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Documents\Visual Studio 2015\Projects\Sudoku\SudokuTest\obj\Debug\SudokuTest.dll
+C:\Users\Olga\Documents\Visual Studio 2015\Projects\Sudoku\SudokuTest\obj\Debug\SudokuTest.pdb
